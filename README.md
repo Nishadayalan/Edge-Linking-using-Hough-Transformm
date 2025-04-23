@@ -31,7 +31,7 @@ REG NO : 212223230143
 import cv2
 import numpy as np
 import matplotlib.pyplot as plt
-image = cv2.imread('chessboard.png')
+image = cv2.imread('eiffel.png')
 ```
 ```
 gray_image = cv2.cvtColor(image, cv2.COLOR_BGR2GRAY)
